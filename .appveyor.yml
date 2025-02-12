@@ -1,0 +1,1 @@
+- npx push-dir --dir=build --branch=gh-pages --force --verbose
