@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ShaNS8D/rhj_1_2/static/css/main.f2e989f5.css",
+    "main.js": "/ShaNS8D/rhj_1_2/static/js/main.6056acb0.js",
+    "static/media/item-blue.jpg": "/ShaNS8D/rhj_1_2/static/media/item-blue.2103f69bf3b1c8b44f34.jpg",
+    "static/media/item-black.jpg": "/ShaNS8D/rhj_1_2/static/media/item-black.dd74251d47c485703b4d.jpg",
+    "index.html": "/ShaNS8D/rhj_1_2/index.html",
+    "main.f2e989f5.css.map": "/ShaNS8D/rhj_1_2/static/css/main.f2e989f5.css.map",
+    "main.6056acb0.js.map": "/ShaNS8D/rhj_1_2/static/js/main.6056acb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2e989f5.css",
+    "static/js/main.6056acb0.js"
+  ]
+}
